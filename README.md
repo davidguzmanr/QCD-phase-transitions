@@ -1,2 +1,2 @@
 # Baryogenesis
-Rutina para resolver el sistema de ecuaciones integro-diferenciales.
+Routine to solve the system of integro-differential equations.
