@@ -17,4 +17,5 @@ To download Julia go to [The Julia Programming Language](https://julialang.org/d
 
 ```
 using Pkg
+Pkg.add("IJulia")
 ```
