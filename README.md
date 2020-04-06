@@ -3,11 +3,11 @@ Routine to solve the system of integro-differential equations in Julia 1.3.0.
 
 ## Project members ##
 
-Aldo Gamboa
-David Guzmán
-Victor Knapp
-José Padua
-[Saúl Ramos](https://www.fisica.unam.mx/es/personal.php?id=398)
+* Aldo Gamboa
+* David Guzmán
+* Victor Knapp
+* José Padua
+* [Saúl Ramos](https://www.fisica.unam.mx/es/personal.php?id=398)
 
 
 ## Getting started ##
