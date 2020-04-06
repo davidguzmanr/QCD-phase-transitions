@@ -13,4 +13,8 @@ Routine to solve the system of integro-differential equations in Julia 1.3.0.
 
 ## Getting started ##
 
-To download Julia go to [The Julia Programming Language](https://julialang.org/downloads/). 
+To download Julia go to [The Julia Programming Language](https://julialang.org/downloads/). You will also need Jupyter to run the notebook, install [Anaconda](https://www.anaconda.com/distribution/) to get it. After that you will also need the Julia kernel for Jupyter, open Julia and type
+
+```
+using Pkg
+```
