@@ -25,4 +25,4 @@ Then clone the repository (or download the zip)
 git clone https://github.com/davidguzmanr/QCD-phase-transitions.git
 ```
 
-Open the Jupyter notebook and run the notebook, you can change the different constants (like $\sigma$, $T_{c}$, etc).
+Open the Jupyter notebook and run the notebook, you can change the different constants at the beginning.
