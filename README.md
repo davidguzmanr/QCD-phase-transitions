@@ -4,6 +4,12 @@
 
 Routine to solve the system of integro-differential equations in Julia 1.3.
 
+> **A first approach to the study ofthe QCD phase transition in cosmology**<br>
+> Aldo Gamboa <sup>1</sup>, David Guzmán<sup>1</sup>, Victor Knapp<sup>1</sup>, José Padua<sup>1,2</sup><br>
+> <sup>1</sup>Facultad de Ciencias, Universidad Nacional Autónoma de México, <sup>2</sup>Instituto de Física, Universidad Nacional Autónoma de México, <sup>3</sup>NVIDIA<br>
+>
+> <p align="justify"><b>Abstract:</b> <i>The cosmological QCD confinement is studied as a first order phase transition with the MIT bag model. The basic concepts of cosmology, phase transitions, nucleation theory are introduced. The equations of the dynamics of the transition are established and a program is supplied for the numerical solution. The solution of the dynamics of the transition are studied varying the surface tension of the bubble, the critical temperature and the number of dynamical quarks for current limits. The objective of this article is to introduce the basics of the cosmological QCD phase transition for an advanced undergraduate or graduate student.</i></p>
+
 ## Project members ##
 
 * Aldo Gamboa, Universidad Nacional Autónoma de México
