@@ -2,7 +2,7 @@
 
 ![Julia 1.3](https://img.shields.io/badge/Julia-1.3-green)
 
-Routine to solve the system of integro-differential equations in Julia 1.3.0.
+Routine to solve the system of integro-differential equations in Julia 1.3.
 
 ## Project members ##
 
