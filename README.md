@@ -33,4 +33,4 @@ Then clone the repository (or download the zip)
 git clone https://github.com/davidguzmanr/QCD-phase-transitions.git
 ```
 
-Open the Jupyter notebook and run the notebook, you can change the different constants at the beginning, the whole routine can take several hours before it reaches h = 1. 
+Open the Jupyter notebook and run the notebook, you can change the different constants at the beginning, the whole routine can take several hours before it reaches <img src="http://latex.codecogs.com/gif.latex?h=1" border="0"/>. 
